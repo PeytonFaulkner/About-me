@@ -1,0 +1,59 @@
+/* page 2 */
+h1 {
+text-decoration:none;
+text-align:center;
+color:white;
+  font-size:3.0em;
+  font-family:'Gloria Hallelujah'
+}
+
+h2 {
+text-decoration:none;
+text-align:center;
+color:white;
+  font-size:1.75em;
+  font-family:'Gloria Hallelujah'
+}
+
+header {
+padding-top:60px
+}
+header {
+background-color: grey;
+}
+body{
+background-image:image(img/pandaback.png);
+}
+
+nav {
+  text-align:center;
+  list-style: none;
+  text-decoration:none;
+  padding-right:30px;  
+  background-color:#8E9FA5
+}
+nav a {
+margin:0 auto;
+  padding-right:70px
+}
+nav li {
+list-style:none;
+  display:inline-flex;
+  font-size: 22px;
+  color:black;
+}
+.contact {
+  text-align: left;
+  
+} 
+
+#superhero {
+margin: 0 auto
+}
+p {
+  color: black;
+  font-size: 1.5em;
+}
+li {
+text-decoration:none;
+}

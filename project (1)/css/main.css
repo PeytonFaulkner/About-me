@@ -1,0 +1,52 @@
+/* page 1 */
+h1 {
+text-decoration:none;
+text-align:center;
+color:#a1FFCC;
+  font-size:3.0em;
+  font-family:'Indie Flower'
+}
+
+h2 {
+text-decoration:none;
+text-align:center;
+color:#a1FFCC;
+  font-size:1.75em;
+  font-family:'Indie Flower'
+}
+
+header {
+padding-top:60px
+}
+header {
+background-color: grey
+}
+body{
+background-color: #8A0B0B
+}
+
+nav {
+  text-align:center;
+  list-style: none;
+  text-decoration:none;
+  padding-right:30px;  
+  background-color:#8E9FA5
+}
+nav a {
+margin:0 auto;
+  padding-right:70px;
+}
+nav li {
+list-style:none;
+  display:inline-flex;
+  font-size: 22px;
+  color:#a1ffcc
+}
+.contact {
+  text-align: left;
+  
+} 
+p {
+color:#fff;
+  font-size: 1.5em;
+}
